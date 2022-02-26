@@ -1,0 +1,15 @@
+switch (num)
+{
+case "17335":number = 599AJ01;
+case "17323":number = 138AT01;
+case "17325":number = 202AT01;
+case "17339":number = 868AJ01;
+case "17319":number = 128AT01;
+case "17312":number = 137AT01;
+case "17335":number = 599AJ01;
+case "17342":number = 866AJ01;
+case "17315":number = 121AT01;
+case "17314":number = 177AT01;
+case "13028":number = 136AT01;
+case "11374":number = 611BL01;
+}
