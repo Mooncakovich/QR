@@ -1,0 +1,15 @@
+switch (num)
+{
+  case "17339":number = "868AAJ01";  
+  case "17311":number = "164AT01";  
+  case "17344":number = "880J01";  
+  case "17304":number = "142AT01";
+  case "17329":number = "201AT01";
+  case "17312":number = "137AT01";
+  case "17342":number = "866AJ01";
+  case "17314":number = "177AT01";
+  case "17355":number = "599AJ01";
+  case "17319":number = "128AT01";
+  case "17306":number = "179AT01";
+  case "17315":number = "121AT01";
+}
